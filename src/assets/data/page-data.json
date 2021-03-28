@@ -1,0 +1,11 @@
+{
+    "title": "Rivachov's",
+    "email": "rivasm@gmail.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "team": [
+        { "name": "Manito", "email": "rivasm@gmail.com" },
+        { "name": "Master" , "email": "test@mail.com"}
+    ]
+}
