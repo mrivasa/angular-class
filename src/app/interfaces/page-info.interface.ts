@@ -6,10 +6,14 @@ export interface PageInfo {
   facebook?: string;
   twitter?: string;
   instagram?: string;
+  teamDbUrl?: string;
   team?: Team[];
 }
 
-interface Team {
-  name?: string;
-  email?: string;
+export interface Team {
+  description?: string;
+  member?: string;
+  title?: string;
+  twitter?: string;
+  url?: string;
 }

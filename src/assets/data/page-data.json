@@ -4,8 +4,6 @@
     "facebook": "https://www.facebook.com",
     "twitter": "https://www.twitter.com",
     "instagram": "https://www.instagram.com",
-    "team": [
-        { "name": "Manito", "email": "rivasm@gmail.com" },
-        { "name": "Master" , "email": "test@mail.com"}
-    ]
+    "teamDbUrl": "https://angular-class-851c2-default-rtdb.firebaseio.com/Team.json",
+    "team": []
 }
